@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sharp Fade Barbershop Booking
 
 Full-stack barbershop booking application with a React frontend, Express REST API, and MySQL persistence. The app includes three views (Home, Booking, Contact) and an interactive map for shop location.
@@ -107,3 +108,6 @@ Base URL: `http://localhost:5000/api`
 └── docker-compose.yml
 ```
 "# Booking-system" 
+=======
+# Booking-assessment-system
+>>>>>>> d496ccc19be1a9f2a830cfef95050b0fc5c53b58
